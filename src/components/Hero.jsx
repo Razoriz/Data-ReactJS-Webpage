@@ -3,7 +3,7 @@ import Typed from 'react-typed';
 
 const Hero = () => {
   return (
-    <div className='text-white' style={{ backgroundImage: `url("https://img.freepik.com/free-vector/abstract-low-poly-connection-lines-digital-technology-background_1017-25550.jpg?w=2000&t=st=1681379547~exp=1681380147~hmac=7f430647dbf276d96976102942db8e34b5dcfc17dc57ca3ea76cbd266551bdf2")`}}>
+    <div className='text-white' style={{ backgroundImage: `url("https://images.unsplash.com/photo-1585079374502-415f8516dcc3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80")`}}>
       <div className='max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
         <p className='text-[#00df9a] font-bold p-2'>
           GROWING WITH DATA ANALYTICS
